@@ -4,7 +4,7 @@ import { Mail, Phone, Linkedin, Github } from "lucide-react";
 const contacts = [
   { icon: Mail, label: "bharathishankrappa@gmail.com", href: "mailto:bharathishankrappa@gmail.com" },
   { icon: Phone, label: "+91 6360440679", href: "tel:+916360440679" },
-  { icon: Linkedin, label: "LinkedIn Profile", href: "https://linkedin.com/in/bharathi04" },
+  { icon: Linkedin, label: "LinkedIn Profile", href: "https://www.linkedin.com/in/bharathi04/" },
   { icon: Github, label: "GitHub Profile", href: "https://github.com/Bharathi0608" },
 ];
 
